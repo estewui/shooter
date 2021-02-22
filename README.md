@@ -32,8 +32,9 @@ Project will run on port 3000.
 
 ## Screenshots
 
-
-
+![Screenshot_1](screenshots/Screenshot_1.png)
+![Screenshot_2](screenshots/Screenshot_2.png)
+![Screenshot_3](screenshots/Screenshot_3.png)
 
 ## Status
 Project is: finished
