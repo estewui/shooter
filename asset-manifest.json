@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shooter/static/css/main.19966204.chunk.css",
+    "main.js": "/shooter/static/js/main.c5839baf.chunk.js",
+    "main.js.map": "/shooter/static/js/main.c5839baf.chunk.js.map",
+    "runtime-main.js": "/shooter/static/js/runtime-main.060312db.js",
+    "runtime-main.js.map": "/shooter/static/js/runtime-main.060312db.js.map",
+    "static/css/2.1e58ee36.chunk.css": "/shooter/static/css/2.1e58ee36.chunk.css",
+    "static/js/2.4a75fe2d.chunk.js": "/shooter/static/js/2.4a75fe2d.chunk.js",
+    "static/js/2.4a75fe2d.chunk.js.map": "/shooter/static/js/2.4a75fe2d.chunk.js.map",
+    "index.html": "/shooter/index.html",
+    "static/css/2.1e58ee36.chunk.css.map": "/shooter/static/css/2.1e58ee36.chunk.css.map",
+    "static/css/main.19966204.chunk.css.map": "/shooter/static/css/main.19966204.chunk.css.map",
+    "static/js/2.4a75fe2d.chunk.js.LICENSE.txt": "/shooter/static/js/2.4a75fe2d.chunk.js.LICENSE.txt",
+    "static/media/gunshot.12621986.mp3": "/shooter/static/media/gunshot.12621986.mp3",
+    "static/media/soundtrack.14a6a92a.mp3": "/shooter/static/media/soundtrack.14a6a92a.mp3",
+    "static/media/zombie_death.7bad6105.mp3": "/shooter/static/media/zombie_death.7bad6105.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.060312db.js",
+    "static/css/2.1e58ee36.chunk.css",
+    "static/js/2.4a75fe2d.chunk.js",
+    "static/css/main.19966204.chunk.css",
+    "static/js/main.c5839baf.chunk.js"
+  ]
+}
