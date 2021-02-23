@@ -1,5 +1,5 @@
 # Zombie shooter game
-> Zombie shooter game
+> Demo available here: http://estewui.github.io/shooter
 
 ## Table of contents
 * [General info](#general-info)
@@ -32,8 +32,9 @@ Project will run on port 3000.
 
 ## Screenshots
 
-
-
+![Screenshot_1](screenshots/Screenshot_1.png)
+![Screenshot_2](screenshots/Screenshot_2.png)
+![Screenshot_3](screenshots/Screenshot_3.png)
 
 ## Status
 Project is: finished
