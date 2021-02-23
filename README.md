@@ -1,5 +1,5 @@
 # Zombie shooter game
-> Zombie shooter game
+> Demo available here: http://estewui.github.io/shooter
 
 ## Table of contents
 * [General info](#general-info)
